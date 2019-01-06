@@ -1,2 +1,2 @@
-# Design-Analysis-of-Algorithms
+# Design-and_Analysis-of-Algorithms
 Design &amp; Analysis of Algorithms
