@@ -1,1 +1,5 @@
-Design &amp; Analysis of Algorithms
+Algorithms:
+
+- CoinChange Problem
+- Extended Dijkstra's Problem
+- Matrix Multiplication
